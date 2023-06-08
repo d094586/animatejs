@@ -1,0 +1,19 @@
+{
+  "name": "animatejsxyeta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx vite"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.152.2"
+  },
+  "devDependencies": {
+    "vite": "^4.3.8"
+  }
+}
